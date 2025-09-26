@@ -1,0 +1,17 @@
+#demo2{
+    border: 2px solid burlywood;
+}
+*{
+    margin: 0px;
+}
+#myId{
+    border: 2px solid blueviolet;
+    margin: 10px;
+    padding: 10px;
+}
+.myClass{
+    border: 2px solid grey;
+}
+div{
+    border: 2px solid yellowgreen;
+}

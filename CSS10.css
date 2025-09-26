@@ -1,0 +1,16 @@
+#demo2{
+    border: 2px solid green;
+    margin: 10px;
+}
+*{
+    margin: 0px;
+}
+div{
+    border: 2px solid black;
+}
+#myId{
+    padding: 20px;
+}
+.myClass{
+    margin: 10px;
+}

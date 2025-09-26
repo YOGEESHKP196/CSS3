@@ -1,0 +1,15 @@
+#demo2{
+    border: 2px solid greenyellow;
+}
+*{
+    margin: 0px;
+}
+div{
+    border: 2px solid yellowgreen;
+}
+#myId{
+    padding: 20px;
+}
+.myClass{
+    margin: 20px;
+}

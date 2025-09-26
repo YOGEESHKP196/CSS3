@@ -1,0 +1,13 @@
+#demo2{
+    border: 2px solid yellowgreen;
+}
+*{
+    margin: 0px;
+}
+div{
+    border: 2px solid black;
+    margin: 10px;
+}
+#myId{
+    padding: 10px;
+}

@@ -1,0 +1,15 @@
+#demo2{
+    border: 2px solid blue;
+}
+*{
+    margin: 0px;
+}
+div{
+    border: 2px solid burlywood;
+}
+#myId{
+    margin: 10px;
+}
+.myClass{
+    padding: 10px;
+}
